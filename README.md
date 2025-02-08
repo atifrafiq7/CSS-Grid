@@ -1,2 +1,2 @@
-https://grid-pinterest.netlify.app/
+grid-pinterst.netlify.app
 
