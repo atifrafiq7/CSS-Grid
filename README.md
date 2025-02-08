@@ -1,2 +1,2 @@
-Grid-templete
+grid-pinterst.netlify.app
 
